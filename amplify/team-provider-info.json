@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-breathingnext-dev-212614-authRole",
+            "UnauthRoleArn": "arn:aws:iam::771245496263:role/amplify-breathingnext-dev-212614-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::771245496263:role/amplify-breathingnext-dev-212614-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-breathingnext-dev-212614-deployment",
+            "UnauthRoleName": "amplify-breathingnext-dev-212614-unauthRole",
+            "StackName": "amplify-breathingnext-dev-212614",
+            "StackId": "arn:aws:cloudformation:us-east-1:771245496263:stack/amplify-breathingnext-dev-212614/965b1a50-0ef6-11ed-98f0-120319b93ddd",
+            "AmplifyAppId": "d29ari94plb7bn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d29ari94plb7bn",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
